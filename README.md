@@ -1,6 +1,7 @@
 # FileFortress-AES
 Software for Encrypting selected files.
-
+-----------------------------------------
+![FileFortress-AES](ffaes.png "FileFortress AES")
 -----------------------------------------
 * Introducing FileFortress AES, your ultimate encryption and decryption solution for securing your valuable files with military-grade protection.
 * With a powerful 128-bit AES encryption algorithm at its core, your files are transformed into impenetrable digital fortresses, ensuring your data remains confidential and safe from prying eyes.
